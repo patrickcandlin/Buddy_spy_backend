@@ -1,0 +1,2 @@
+class Buddyapi < ApplicationRecord
+end
